@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UsaLista
+comment0.text=\r\n\ Descripci\u00F3n\:Clase\ de\ ejemplo\ que\ demuestra\ el\ uso\ de\ la\ lista\ enlazada\ simple\ implementada\ en\ ListaSimple.En\ este\ ejemplo,\ se\ crean\ instancias\ de\ ListaSimple\ y\ se\ realizan\ varias\ operaciones,\ como\r\n\ inserciones,\ b\u00FAsquedas,\ intercambios\ y\ manipulaciones\ de\ nodos.\r\n\ Clase\ recuperada\ y\ modificada\ de\ un\ ejercicio\ academico\r\n\ Autores\:\ \ Mart\u00EDnez\ Chulin\ Jos\u00E9\ Alexander\r\n\ Fecha\:\ 23/11/23\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

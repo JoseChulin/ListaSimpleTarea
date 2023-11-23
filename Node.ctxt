@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Descripci\u00F3n\:\ Clase\ que\ representa\ un\ nodo\ en\ una\ lista\ enlazada\ simple.\r\nCada\ nodo\ contiene\ un\ campo\ de\ datos\ y\ un\ enlace\ al\ siguiente\ nodo\ en\ la\ secuencia.\r\n\ Esta\ clase\ es\ utilizada\ en\ la\ implementaci\u00F3n\ de\ listas\ simples\ enlazadas.\r\n\ Autores\:\ clase\ recuperada\ de\ un\ ejercicio\ academico\r\n\ Fecha\:\ 23/11/23\r\n
+numComments=1
